@@ -1,4 +1,3 @@
-﻿# reeple-assessment-Trust-Gunn
 
 # Reeple Assessment - Trust Gunn
 
