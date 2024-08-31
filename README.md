@@ -46,11 +46,7 @@ npx expo start
 **Video Demo**: https://youtu.be/jjC9d3jVod0
 
 
-**Apk Link***:
-
-
-
-
+**Apk Link***: https://drive.google.com/file/d/15g6e_fjvL0Nux97IGP7lU1LHqJUc4B2Y/view?usp=drivesdk
 
 
  
