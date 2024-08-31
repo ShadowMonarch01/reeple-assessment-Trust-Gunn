@@ -23,7 +23,7 @@ Make sure you have the following tools installed on your system:
 
 -Download and unzip the the GitHub project or use the terminal to download the project locally
 
-### Using the terminal
+**Using the terminal**
 
 Run the command in the terminal
   ```bash
@@ -34,7 +34,7 @@ After downloading the project open the project in an IDE or open the project dir
  ```bash
  npm install
 ```
--Once the node modules have been installed run this command to start up the project
+Once the node modules have been installed run this command to start up the project
 
 ```bash
 npx expo start
