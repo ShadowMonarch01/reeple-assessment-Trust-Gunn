@@ -25,6 +25,26 @@ Make sure you have the following tools installed on your system:
 
 ### Using the terminal
 
--Run the command in the terminal
+Run the command in the terminal
   ```bash
-  git pull https://github.com/ShadowMonarch01/reeple-assessment-Trust-Gunn.git
+git pull https://github.com/ShadowMonarch01/reeple-assessment-Trust-Gunn.git
+```
+After downloading the project open the project in an IDE or open the project directory the your terminal and run the command
+
+ ```bash
+ npm install
+```
+-Once the node modules have been installed run this command to start up the project
+
+```bash
+npx expo start
+
+```
+After starting up the project scan the Qr-code in the terminal using the expo-go app on your mobile phone or use the command 'a' to run it on your emulator 
+
+
+
+
+
+
+ 
