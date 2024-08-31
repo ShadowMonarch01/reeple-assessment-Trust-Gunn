@@ -28,7 +28,7 @@ Run the command in the terminal
   ```bash
 git pull https://github.com/ShadowMonarch01/reeple-assessment-Trust-Gunn.git
 ```
-**-** After downloading the project open the project in an IDE or open the project directory the your terminal and run the command
+**-** After downloading the project open the project in an IDE or open the project directory through your terminal and run the command
 
  ```bash
  npm install
